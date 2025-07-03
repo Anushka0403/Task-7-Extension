@@ -1,8 +1,6 @@
 # Task-7-Extension
 Cyber Security Internship/ Task-7: Identify and Remove Suspicious Browser Extensions
 
-# Task 7: Identify and Remove Suspicious Browser Extensions
-
 ## Objective
 The main goal of this task is to *identify, evaluate, and remove any suspicious or unnecessary browser extensions*. This improves browser performance and strengthens security by eliminating potential attack vectors.
 
